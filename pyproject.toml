@@ -7,7 +7,7 @@ authors = ["Trim21 <i@trim21.me>"]
 [tool.poetry.dependencies]
 python = "^3.7"
 # real dependencies
-redis = "3.3.11"
+redis = "3.5.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "5.4.1"
